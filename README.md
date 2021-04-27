@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there! 👋
+
+NICE TO MEET YOU, I am OrangeEgg
+
+![alt text](https://i.imgur.com/Jdj3BUg.png)
 
 <!--
 **OrangeEgg1937/OrangeEgg1937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
