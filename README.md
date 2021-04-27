@@ -3,5 +3,4 @@
 I am OrangeEgg1937
 
 # About me
-  - I am currently a student now
-  - Studying programming
+  - My name is HO Kwong Wa, a CE student at CUHK.
