@@ -2,10 +2,8 @@
 
 ## About Me
 
-Nice to meet you, I am a Computer Engineering student at The Chinese University of Hong Kong.
+Nice to meet you, I just graduated in 2024, currently working as a software engineer in HK. I am also writing some blog about my working~
 
-I will make some stuff for my hobby, you can review it in my Github or [my blog](https://orangeegg1937.github.io/), and free feel to talk to me :D
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeEgg1937&layout=donut)](https://github.com/OrangeEgg1937)
 
-Want to know more about me? [Review my portfolio](https://orangeegg1937.github.io/about_me/)
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOrangeEgg1937%2FOrangeEgg1937&label=VISITOR&countColor=%23263759)
+- [My Blog](https://orangeegg1937.github.io/)
